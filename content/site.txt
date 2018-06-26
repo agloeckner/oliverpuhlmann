@@ -1,0 +1,13 @@
+Title: Agentur Oliver Puhlmann
+
+----
+
+Author: Oliver Puhlmann
+
+----
+
+Description: Agentur Oliver Puhlmann
+
+----
+
+Copyright: © 2018–(date: Year) (link: http://oliverpuhlmann.com text: Agentur Oliver Puhlmann)

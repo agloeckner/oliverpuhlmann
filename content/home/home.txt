@@ -1,0 +1,427 @@
+Title: home
+
+----
+
+Navigation: 
+
+- 
+  title: Agentur Oliver Puhlmann
+  url: '#home'
+  image: logo.png
+- 
+  title: About
+  image: ""
+  url: '#about'
+- 
+  title: Brands
+  image: ""
+  url: '#brands'
+- 
+  title: Team
+  url: '#team'
+  image: ""
+- 
+  title: Kontakt
+  url: '#kontakt'
+  image: ""
+- 
+  title: Anfahrt
+  url: '#kontakt'
+  image: ""
+
+----
+
+Stage: 
+
+- 
+  title: ""
+  image: bg-start1.jpg
+
+----
+
+Brands: 
+
+- 
+  title: Dstrezzed
+  image: |
+    - dstrezzed-logo.png
+    - dstrezzed-image.png
+  subtitle: Men, Accessoires
+  url: https://www.dstrezzed.com
+- 
+  title: 10 Days
+  image: |
+    - 10days-logo.png
+    - 10days-image.png
+  subtitle: Women, Kids
+  url: https://www.10days.nl
+- 
+  title: TheWhiteBrand
+  image: |
+    - thewithebrand-logo.png
+    - thewithebrand-image.png
+  subtitle: Shoes
+  url: https://www.thewhitebrand.com
+- 
+  title: Maze
+  image: |
+    - maze-logo.png
+    - maze-image.png
+  subtitle: Men, Women
+  url: http://www.maze-fashion.de
+- 
+  title: Mya Bay
+  subtitle: Accessoires
+  image: |
+    - myabay-logo.png
+    - myabay-image.png
+  url: https://www.mya-bay.com
+- 
+  title: Norton
+  subtitle: Accessoires
+  image: |
+    - norton-logo.png
+    - norton-image.jpg
+  url: https://www.nortoncaps.com
+- 
+  title: b-belt
+  subtitle: Accessoires
+  image: |
+    - bbelt-logo.png
+    - bbelt-image.png
+  url: http://b-belt.fashion
+- 
+  title: Your Label
+  subtitle: >
+    Wir sind ständig auf der Suche nach
+    neuen Labels und Partnern.
+  image: your-label.png
+  url: '#brands'
+
+----
+
+About: 
+
+- 
+  title: Showroom am Spreeufer
+  text: ""
+  image: showroom_6.jpg
+- 
+  title: ""
+  text: |
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+    
+    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  image: ""
+
+----
+
+Footer: 
+
+- 
+  title: Agentur Oliver Puhlmann
+  url: '#home'
+  image: ""
+  text: ""
+- 
+  title: About
+  url: '#about'
+  image: ""
+- 
+  title: Brands
+  url: '#brands'
+  image: ""
+- 
+  title: Team
+  url: '#team'
+  image: ""
+- 
+  title: Kontakt
+  url: '#kontakt'
+  image: ""
+- 
+  title: Anfahrt
+  url: '#kontakt'
+  image: ""
+  text: ""
+- 
+  title: Impressum
+  url: '#extension'
+  image: ""
+  text: |
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+    
+    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+- 
+  title: Datenschutz
+  url: '#extension'
+  image: ""
+  text: |
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+    
+    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+- 
+  title: Made by Parkway Berlin
+  url: http://parkwayberlin.com
+  text: ""
+- 
+  title: Login
+  url: panel/pages/home/edit
+  image: ""
+- 
+  title: '&copy; 2017 Agentur Oliver Puhlmann'
+  url: ""
+  image: ""
+  text: ""
+
+----
+
+Kontakt: 
+
+- 
+  title: Agentur Oliver Puhlmann
+  subtitle: ""
+  image: ""
+  url: ""
+  phone: "+491717868770"
+  email: oliver@oliverpuhlmann.com
+  address: |
+    Labels II Raum 2.1/ 2.6
+    Stralauer Allee 12
+    10245 Berlin
+  location: |
+    address: ""
+    lat: ""
+    lng: ""
+    zoom: ""
+- 
+  title: ""
+  phone: ""
+  email: ""
+  address: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.8909812954294!2d13.45766231580671!3d52.499212979810366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84ef8b62d425f%3A0x6dea33057ed59a30!2sAgentur+Oliver+Puhlmann!5e0!3m2!1sen!2sde!4v1520855597203" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>'
+  image: ""
+  url: ""
+  location: |
+    address: Berlin, Germany
+    lat: ""
+    lng: ""
+    zoom: ""
+
+----
+
+Location: 
+
+address: berlin
+lat: ""
+lng: ""
+zoom: ""
+
+----
+
+Team: 
+
+- 
+  title: Oliver Puhlmann
+  phone: +49 171 7868770
+  email: oliver@oliverpuhlmann.com
+  address: ""
+  image: oliver.jpg
+  url: ""
+  location: |
+    address: ""
+    lat: ""
+    lng: ""
+    zoom: ""
+  subtitle: CEO
+  instagram: ""
+  twitter: ""
+- 
+  title: Mara Bauer
+  phone: +49 30 70098080
+  email: mara@oliverpuhlmann.com
+  address: ""
+  image: mara.jpg
+  url: ""
+  location: |
+    address: ""
+    lat: ""
+    lng: ""
+    zoom: ""
+  subtitle: Sales/Marketing
+  instagram: ""
+  twitter: ""
+- 
+  title: Christian Müller
+  phone: +49 30 70098080
+  email: christian@oliverpuhlmann.com
+  address: ""
+  image: christian.jpg
+  url: ""
+  location: |
+    address: ""
+    lat: ""
+    lng: ""
+    zoom: ""
+  subtitle: Sales
+  instagram: ""
+  twitter: ""
+- 
+  title: Dajana Caporale
+  phone: +49 30 70098080
+  email: dajana@oliverpuhlmann.com
+  address: ""
+  image: dajana.jpg
+  url: ""
+  location: |
+    address: ""
+    lat: ""
+    lng: ""
+    zoom: ""
+  subtitle: Sales
+  instagram: ""
+  twitter: ""
+
+----
+
+Navigation1: 
+
+- 
+  title: Agentur Oliver Puhlmann
+  type: link
+  url: '#home'
+  button: ""
+  url2: ""
+- 
+  title: About
+  type: link
+  url: '#about'
+  button: ""
+  url2: ""
+- 
+  title: Brands
+  type: link
+  url: '#brands'
+  button: ""
+  url2: ""
+- 
+  title: Team
+  type: link
+  url: '#team'
+  button: ""
+  url2: ""
+- 
+  title: Kontakt
+  type: link
+  url: '#kontakt'
+  button: ""
+  url2: ""
+- 
+  title: Anfahrt
+  type: link
+  url: '#kontakt'
+  button: ""
+  url2: ""
+- 
+  title: Impressum
+  type: button
+  url: ""
+  button: |
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Iat has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+    
+    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  url2: ""
+- 
+  title: Datenschutz
+  type: button
+  url: ""
+  button: |
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Iat has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+    
+    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  url2: ""
+- 
+  title: Made by Parkway Berlin
+  type: link
+  url: http://parkwayberlin.com
+  button: ""
+  url2: ""
+- 
+  title: Login
+  type: link
+  url: panel/pages/home/edit
+  button: ""
+  url2: ""
+- 
+  title: '&copy; 2017 Agentur Oliver Puhlmann'
+  type: link
+  url: http://parkwayberlin.com
+  button: ""
+  url2: ""
+
+----
+
+Gallery: 
+
+- 
+  title: ""
+  image: |
+    - showroom_1.jpg
+    - showroom_2.jpg
+    - showroom_3.jpg
+    - showroom_4.jpg
+    - showroom_5.jpg
+    - showroom_6.jpg
+
+----
+
+Gallery1: 
+
+- 
+  title: ""
+  image: |
+    - showroom_1.jpg
+    - showroom_2.jpg
+    - showroom_3.jpg
+    - showroom_4.jpg
+    - showroom_5.jpg
+    - showroom_6.jpg
+  itemimage: |
+    - showroom_1.jpg
+    - showroom_2.jpg
+    - showroom_3.jpg
+    - showroom_4.jpg
+    - showroom_5.jpg
+    - showroom_6.jpg
+
+----
+
+Test1: 
+
+----
+
+Social: 
+
+- 
+  title: LinkedIn
+  url: >
+    https://www.linkedin.com/in/agentur-oliver-puhlmann-46375a15a/
+  image: linkedin-logo.png
+- 
+  title: Pinterest
+  url: >
+    https://www.pinterest.de/agenturoliverpuhlmann/
+  image: pinterest-2.png
+- 
+  title: Twitter
+  url: https://twitter.com/agentur_op
+  image: twitter-3.png
+- 
+  title: Instragram
+  url: >
+    https://www.instagram.com/agenturoliverpuhlmann/
+  image: instagram.png
+- 
+  title: Facebook
+  url: >
+    https://facebook.com/agenturoliver.puhlmann.7
+  image: facebook.png

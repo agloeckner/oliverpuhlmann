@@ -1,0 +1,212 @@
+title: Page
+
+fields:
+
+#   title:
+#     label: Title
+#     type:  text
+
+  hidebar:
+    type: hidebar
+
+  stage:
+    label: Stage
+    type:  structure
+    style: table
+    entry:
+      - image
+    fields:
+      title:
+        label: Name
+        type: text
+      image:
+        label: Image
+        type: images
+        limit: 1
+
+  social:
+    label: Social Media
+    type:  structure
+    style: table
+    entry:
+      - title
+      - url
+      - image
+    fields:
+      title:
+        label: Name
+        type: text
+      url:
+        label: URL
+        type: text
+      image:
+        label: Image
+        type: images
+
+  about:
+    label: About
+    type:  structure
+    style: table
+    entry:
+      - title
+      - text
+    fields:
+      title:
+        label: Name
+        type: text
+      text:
+        label: Text
+        type: textarea
+      image:
+        label: Image
+        type: images
+
+  brands:
+    label: Brands
+    type:  structure
+    style: table
+    fields:
+      title:
+        label: Name
+        type: text
+      subtitle:
+        label: Subtitle
+        type: text
+      image:
+        label: Image
+        type: images
+      url:
+        label: URL
+        type: text       
+
+  team:
+    label: Team
+    type:  structure
+    style: table
+#     entry: {{title}}<br><img width="200px" src="http://localhost/oliverpuhlmann.com/content/home/{{image}}">
+    fields:
+      title:
+        label: Name
+        type: text
+      subtitle:
+        label: Position
+        type: text
+      phone:
+        label: Tel.
+        type: text
+      email:
+        label: Email
+        type: text
+      image:
+        label: Image
+        type: images
+      instagram:
+        label: Instagram
+        type: text
+      twitter:
+        label: Twitter
+        type: text
+
+  kontakt:
+    label: Kontakt
+    type:  structure
+    style: table
+    fields:
+      title:
+        label: Name
+        type: text
+      phone:
+        label: Tel.
+        type: text
+      email:
+        label: Email
+        type: text
+      address:
+        label: Adresse
+        type: textarea
+      image:
+        label: Image
+        type: images
+      url:
+        label: URL
+        type: text
+      location:
+        label: Location
+        type: map
+
+  gallery:
+    label: Showroom
+    type:  structure
+    style: table
+    modalsize: large
+    limit: 20
+    entry:
+      - image
+      - type
+      - url2
+    fields:
+      title:
+        label: Name
+        type: text
+      image:
+        label: Name
+        type: images
+        
+  navigation:
+    label: Navigation Top
+    type:  structure
+    style: table
+#     modalsize: large
+    entry:
+      - title
+      - url
+      - image
+    fields:
+      title:
+        label: Name
+        type: text
+      url:
+        label: URL
+        type: text
+      image:
+        label: Image
+        type: images
+
+  navigation1:
+    label: Navigation Bottom
+    type:  structure
+    style: table
+    modalsize: large
+    limit: 20
+    entry:
+      - title
+      - url
+      - type
+    fields:
+      title:
+        label: Name
+        type: text
+        required: yes
+      type:
+        label: Type
+        type: fieldtoggle
+        options:
+          link: URL
+          button: Button
+        show:
+          link: url
+          button: button
+        hide:
+          link: button
+          button: url
+      url:
+        label: URL
+        type: text
+      button:
+        type: textarea
+      url2:
+        label: URL
+        type: select
+        options: pages
+
+
