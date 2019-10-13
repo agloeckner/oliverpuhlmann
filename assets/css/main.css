@@ -1,6 +1,55 @@
 @charset "UTF-8";
 /* TEMP */
 
+.stage .title {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  z-index: 999;
+  width: 200px;
+  height: 30px;
+  background: rgba(128, 128, 128, 0.49);
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+
+.cookie {
+  background: rgba(127, 127, 127, 0.3);
+  color: #444;
+  font-size: 0.5rem !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: .5rem !important;
+  width: 100%;
+  box-sizing: border-box;
+  cursor: pointer;
+  text-align: center;
+}
+
+.cookie span {
+  display: none !important;
+  color: #fff !important;
+}
+
+.cookie:hover span {
+  display: flex !important;
+}
+
+.cookie:hover {
+  background: rgba(127, 127, 127, 0.6);
+  color: #fff;
+}
+
+.caption {
+  position: absolute;
+  margin: .5em;
+  font-size: .8rem;
+}
+
+
 .navigation .item:nth-child(1) .title {
   display: none;
 }

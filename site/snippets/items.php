@@ -150,6 +150,8 @@ $path = page($section[2])->{$section_name}()->toStructure();
 						<?php echo thumb($image->image($image)->toFile(), array('width' => 800))->url() ?> 800w,
 						<?php echo thumb($image->image($image)->toFile(), array('width' => 1600))->url() ?> 1600w"
 				sizes="(max-width: 480px) 100vw, (max-width: 900px) 33vw, 100vw">
+				
+			<div class="caption"><?php echo $image->toFile()->caption() ?></div>
 			
 			<?php endforeach ?>
 			

@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 
 <head>
+
 <meta charset="utf-8">
+<title>Oliver Puhlmann</title>
+<meta name="description" content="Agentur Oliver Puhlmann">
+
 <?php echo css('assets/css/main.css') ?>
     
 <script src=""></script>
@@ -44,6 +48,9 @@ $(document).ready(function(){
 <body>
 
 <div class="main" id="home">
+	
+<div class="cookie" style="font-size: 0.8rem !important;">Cookies<br><span>Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies. Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu.
+Weitere Informationen zu Cookies erhalten Sie in unserer Datenschutzerklärung</span></div>
 
 <?php snippet('items', array('section' => array('navigation', 'navigation', 'home'))) ?>
 
@@ -79,6 +86,20 @@ $('[class^=ext-]').appendTo('body'); //appendTo
 // basic animations	
 //$( "a.moduleTitle" ).addClass( "wow fadeInUp");
 	
+
+			$('div.cookie').click(function() {
+			$('div.ext-footer-7').fadeIn();
+			$('body').css({'overflow':'hidden'});
+// 			$('div.extension').show();
+			});
+			
+			$('div.ext-footer-7').click(function() {
+			$('div.ext-footer-7').fadeOut();
+			$('body').css({'overflow':'unset'});
+// 			$('div.extension').hide();
+			});			
+					
+
 </script>
 
 </body>

@@ -1,5 +1,10 @@
 title: Page
-
+files:
+  fields:
+    caption:
+      label: Caption
+      type: text
+      
 fields:
 
 #   title:
